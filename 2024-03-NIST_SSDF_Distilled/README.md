@@ -5,7 +5,7 @@ on the [NIST SSDF](https://csrc.nist.gov/projects/ssdf).
 
 ## Documents
 
-* [ Distilled "Reading Assignment" ](NIST_SSDF_Distilled-reading_assignment_1.md)
+* [ Distilled "Reading Assignment - Practice Groups and Descriptions" ](NIST_SSDF_Distilled-reading_assignment_1.md)
 * [ NIST SP 800-218 - With out References](NIST.SP.800-218.SSDF-table_without_references.md)
 * [ NIST SP 800-218 - The WHOLE thing ](NIST.SP.800-218.SSDF-table.md)
 
